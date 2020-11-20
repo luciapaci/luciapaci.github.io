@@ -6,7 +6,7 @@ Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ 
 
 My research interests focuses on Bayesian inference, graphical model selection, spatial statistics, spatio-temporal modeling, with applications to ecological processes, environmental and social sciences.
 
-## Publications
+### Publications
 Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies in graphical VAR models](https://www.sciencedirect.com/science/article/pii/S016794731930235X), _Computational Statistics \& Data Analysis_, 144, 106880. 
 
 Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2020) [Spatial hedonic modeling adjusted for preferential sampling](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12489), _Journal of the Royal Statistical Society: Series A_, 183, 169-192.
