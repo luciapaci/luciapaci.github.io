@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Lucia Paci
 
-You can use the [editor on GitHub](https://github.com/luciapaci/luciapaci.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm an **Assistant Professor of Statistics** in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my _Ph.D._ (2014) in Statistics under the supervision of Daniela Cocchi and Alan Gelfand. I've been a _Visiting Research Scholar_ in the Department of Statistical Sciences at [Duke University](https://duke.edu/) (2012, USA), in the Statistical and Applied Mathematical Sciences Institute (2014, USA) and the Faculty of Economics of the University of Zaragoza (2016, Spain).
 
-### Markdown
+My research interests focuses on Bayesian inference, graphical model selection, spatial statistics, spatio-temporal modeling, with applications to ecological processes, environmental and social sciences.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies in graphical VAR models](https://www.sciencedirect.com/science/article/pii/S016794731930235X), _Computational Statistics \& Data Analysis_, 144, 106880. 
 
-```markdown
-Syntax highlighted code block
+Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2020) [Spatial hedonic modeling adjusted for preferential sampling](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12489), _Journal of the Royal Statistical Society: Series A_, 183, 169-192.
 
-# Header 1
-## Header 2
-### Header 3
+Finazzi F., Paci L. (2019)  [Quantifying personal exposure to air pollution from smartphone-based location data](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13100), _Biometrics_, 75, 1356-1366.
 
-- Bulleted
-- List
+Finazzi F., Paci L. (2019) [Kernel-based estimation of individual location densities from smartphone data](https://journals.sagepub.com/doi/abs/10.1177/1471082X17870331?journalCode=smja), _Statistical Modelling_, 6, 617-633.
 
-1. Numbered
-2. List
+Paci L., Finazzi F. (2018) [Dynamic model-based clustering for spatio-temporal data](https://link.springer.com/article/10.1007/s11222-017-9735-9), _Statistics and Computing_, 28, 359-374.
 
-**Bold** and _Italic_ and `Code` text
+Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2017) [Analysis of residential property sales using space-time point patterns](http://www.sciencedirect.com/science/article/pii/S2211675317300143), _Spatial Statistics_, 21, 149-165. 
 
-[Link](url) and ![Image](src)
-```
+Paci L., Gelfand A. E. , Beamonte M. A., Rodrigues M., Per\'ez-Cabello F. (2017) [Space-time model for post-fire vegetation recovery](https://link.springer.com/article/10.1007/s00477-015-1182-6),_Stochastic Environmental Research and Risk Assessment_, 31 (1), 171-183.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Paci L., Gelfand A. E., Cocchi D. (2015) [Quantifying uncertainty for temperature maps derived from computer models](http://www.sciencedirect.com/science/article/pii/S221167531500024X),_Spatial Statistics_, 12, 96-108.
 
-### Jekyll Themes
+Paci L., Gelfand A. E., Holland D. M. (2013)[Spatio-temporal modeling for real-time ozone forecasting](http://www.sciencedirect.com/science/article/pii/S2211675313000195). _Spatial Statistics_, 4, 79-93.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luciapaci/luciapaci.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the effect of grouping in hierarchical spatio-temporal models](https://link.springer.com/article/10.1007/s10182-012-0193-6), _AStA Advances in Statistical Analysis_, 97 (2), 93-108.
