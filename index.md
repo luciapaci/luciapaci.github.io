@@ -1,10 +1,10 @@
 # Lucia Paci
 
-I'm an **Assistant Professor of Statistics** in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
+I'm a senior Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
 
 Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my _Ph.D._ (2014) in Statistics under the supervision of Daniela Cocchi and Alan Gelfand. I've been a _Visiting Research Scholar_ in the Department of Statistical Sciences at [Duke University](https://duke.edu/) (2012, USA), in the Statistical and Applied Mathematical Sciences Institute (2014, USA) and the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain).
 
-My research interests focuses on Bayesian inference, graphical model selection, spatial statistics, spatio-temporal modeling, with applications to ecological processes, environmental and social sciences.
+My research interests focuses on Bayesian inference, graphical model selection, mixture modeling, spatial statistics, spatio-temporal modeling, with applications to ecological processes, environmental and social sciences.
 
 ### Publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
@@ -22,7 +22,7 @@ Paci L., Finazzi F. (2018) [Dynamic model-based clustering for spatio-temporal d
 
 Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2017) [Analysis of residential property sales using space-time point patterns](http://www.sciencedirect.com/science/article/pii/S2211675317300143), _Spatial Statistics_, 21, 149-165. 
 
-Paci L., Gelfand A. E. , Beamonte M. A., Rodrigues M., Per\'ez-Cabello F. (2017) [Space-time model for post-fire vegetation recovery](https://link.springer.com/article/10.1007/s00477-015-1182-6),_Stochastic Environmental Research and Risk Assessment_, 31 (1), 171-183.
+Paci L., Gelfand A. E. , Beamonte M. A., Rodrigues M., Peréz-Cabello F. (2017) [Space-time model for post-fire vegetation recovery](https://link.springer.com/article/10.1007/s00477-015-1182-6),_Stochastic Environmental Research and Risk Assessment_, 31 (1), 171-183.
 
 Paci L., Gelfand A. E., Cocchi D. (2015) [Quantifying uncertainty for temperature maps derived from computer models](http://www.sciencedirect.com/science/article/pii/S221167531500024X), _Spatial Statistics_, 12, 96-108.
 
