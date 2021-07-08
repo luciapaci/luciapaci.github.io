@@ -17,7 +17,7 @@ Finazzi F., Paci L. (2019)  [Quantifying personal exposure to air pollution from
 
 Finazzi F., Paci L. (2019) [Kernel-based estimation of individual location densities from smartphone data](https://journals.sagepub.com/doi/abs/10.1177/1471082X17870331?journalCode=smja), _Statistical Modelling_, 6, 617-633.
 
-Canale A., Durante D., Paci L., Scarpa B. (2018) [Connecting statistical brains](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01110.x/full}), _Significance_, 15, pp 38-40.
+Canale A., Durante D., Paci L., Scarpa B. (2018) [Connecting statistical brains](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01110.x/full}), _Significance_, 15, 38-40.
 
 Paci L., Finazzi F. (2018) [Dynamic model-based clustering for spatio-temporal data](https://link.springer.com/article/10.1007/s11222-017-9735-9), _Statistics and Computing_, 28, 359-374.
 
