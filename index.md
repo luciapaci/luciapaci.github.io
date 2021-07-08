@@ -5,7 +5,6 @@ Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ 
 
 My research interests focuses on Bayesian inference of graphical modeling, mixture modeling, and spatio-temporal modeling, with applications to ecological and environmental processes, social and life sciences.
 
-I'm vice program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
 
 ### Publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
@@ -30,3 +29,13 @@ Paci L., Gelfand A. E., Cocchi D. (2015) [Quantifying uncertainty for temperatur
 Paci L., Gelfand A. E., Holland D. M. (2013) [Spatio-temporal modeling for real-time ozone forecasting](http://www.sciencedirect.com/science/article/pii/S2211675313000195), _Spatial Statistics_, 4, 79-93.
 
 Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the effect of grouping in hierarchical spatio-temporal models](https://link.springer.com/article/10.1007/s10182-012-0193-6), _AStA Advances in Statistical Analysis_, 97 (2), 93-108.
+
+
+### Teaching
+I'm vice program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
+
+AY 2021 - 2022
+* Applied linear models
+* Spatial data analysis
+
+See my web-page [HERE](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
