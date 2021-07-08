@@ -9,7 +9,7 @@ I'm vice program coordinator of the Master of Science in [Data analytics for bus
 
 ### Publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
-Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies in graphical VAR models](https://www.sciencedirect.com/science/article/pii/S016794731930235X), _Computational Statistics \& Data Analysis_, 144, 106880. 
+Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies in graphical VAR models](https://www.sciencedirect.com/science/article/pii/S016794731930235X), _Computational Statistics & Data Analysis_, 144, 106880. 
 
 Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2020) [Spatial hedonic modeling adjusted for preferential sampling](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12489), _Journal of the Royal Statistical Society: Series A_, 183, 169-192.
 
