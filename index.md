@@ -23,7 +23,7 @@ Paci L., Finazzi F. (2018) [Dynamic model-based clustering for spatio-temporal d
 
 Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2017) [Analysis of residential property sales using space-time point patterns](http://www.sciencedirect.com/science/article/pii/S2211675317300143), _Spatial Statistics_, 21, 149-165. 
 
-Paci L., Gelfand A. E., Beamonte M. A., Rodrigues M., Peréz-Cabello F. (2017) [Space-time model for post-fire vegetation recovery](https://link.springer.com/article/10.1007/s00477-015-1182-6),_Stochastic Environmental Research and Risk Assessment_, 31 (1), 171-183.
+Paci L., Gelfand A. E., Beamonte M. A., Rodrigues M., Peréz-Cabello F. (2017) [Space-time model for post-fire vegetation recovery](https://link.springer.com/article/10.1007/s00477-015-1182-6), _Stochastic Environmental Research and Risk Assessment_, 31 (1), 171-183.
 
 Paci L., Gelfand A. E., Cocchi D. (2015) [Quantifying uncertainty for temperature maps derived from computer models](http://www.sciencedirect.com/science/article/pii/S221167531500024X), _Spatial Statistics_, 12, 96-108.
 
