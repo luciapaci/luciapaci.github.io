@@ -40,4 +40,4 @@ AY 2021 - 2022
 * Applied linear models
 * Spatial data analysis
 
-See my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
+For more info, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
