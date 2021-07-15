@@ -1,3 +1,5 @@
+![mare](./mare.jpg)
+
 ### Short Bio
 I'm Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
 
@@ -42,4 +44,4 @@ AY 2021 - 2022
 
 For more info on courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
 
-![mare](./mare.jpg)
+
