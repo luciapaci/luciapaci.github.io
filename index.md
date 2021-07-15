@@ -1,6 +1,9 @@
 &nbsp;
 
 ![mare](./mare.jpg)
+> A smooth sea never made a skilled sailor – _Franklin D. Roosevelt_
+
+&nbsp; 
 
 ### Short Bio
 I'm Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
