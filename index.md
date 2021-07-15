@@ -42,4 +42,4 @@ AY 2021 - 2022
 
 For more info on courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
 
-
+![mare](./mare.jpg)
