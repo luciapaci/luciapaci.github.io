@@ -41,3 +41,5 @@ AY 2021 - 2022
 * Spatial data analysis
 
 For more info, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
+
+
