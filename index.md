@@ -1,7 +1,7 @@
 &nbsp;
 
 ![mare](./mare.jpg)
-> A smooth sea never made a skilled sailor – _Franklin D. Roosevelt_
+> A smooth sea never made a skilled sailor - Franklin D. Roosevelt -
 
 &nbsp; 
 
