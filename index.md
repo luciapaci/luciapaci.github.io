@@ -1,5 +1,5 @@
 ### Short Bio
-I'm a senior Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
+I'm Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
 
 Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my _Ph.D._ (2014) in Statistics under the supervision of Daniela Cocchi and Alan Gelfand. I've been a _Visiting Research Scholar_ in the Department of Statistical Sciences of [Duke University](https://duke.edu) (2012, USA), in the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info) (2014, USA) and the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain).
 
