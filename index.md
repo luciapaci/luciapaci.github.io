@@ -1,6 +1,6 @@
 &nbsp;
 
-![mare](./MARE.jpg)
+![mare](./mare.jpg)
 
 ### Short Bio
 I'm Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
