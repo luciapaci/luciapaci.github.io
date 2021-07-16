@@ -43,7 +43,7 @@ Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the ef
 ### Teaching
 I'm vice program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
 
-AY 2021 - 2022 Courses
+AY 2021 - 2022 Courses:
 * Applied linear models
 * Spatial data analysis
 
