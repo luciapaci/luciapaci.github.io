@@ -1,6 +1,6 @@
 &nbsp;
 
-![mare](./mare.jpg)
+![mare](./MARE.jpg)
 > A smooth sea never made a skilled sailor - Franklin D. Roosevelt -
 
 &nbsp; 
