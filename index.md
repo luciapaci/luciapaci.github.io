@@ -13,6 +13,8 @@ My research interests focuses on Bayesian inference of spatio-temporal modeling,
 
 ### Publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
+Gasperoni F., Luati A., Paci L., D'Innocenzo E. (2021) [Score Driven Modeling of Spatio-temporal Data](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2021.1970571#.YS0d2o4zY2w), _Journal of the American Statistical Association_, in press.
+
 Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies in graphical VAR models](https://www.sciencedirect.com/science/article/pii/S016794731930235X), _Computational Statistics & Data Analysis_, 144, 106880. 
 
 Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2020) [Spatial hedonic modeling adjusted for preferential sampling](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12489), _Journal of the Royal Statistical Society: Series A_, 183, 169-192.
