@@ -5,13 +5,13 @@
 ### Short Bio
 I'm Assistant Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
 
-Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my _Ph.D._  in Statistics (2014) under the supervision of Daniela Cocchi and Alan Gelfand. I've been a _Visiting Scholar_ in the Department of Statistical Sciences of [Duke University](https://duke.edu) (2012, USA), in the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info) (2014, USA) and the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain).
+Prior to joining Cattolica University in 2016, I was a _Post–Doctoral Fellow_ in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my _Ph.D._  in Statistics (2014) under the supervision of Daniela Cocchi and Alan Gelfand. I've been a _Visiting Scholar_ in the Department of Statistical Sciences of [Duke University](https://duke.edu) (2012, USA), in the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info) (2014, USA) and the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain). I was Program Chair of [j-ISBA](https://j-isba.github.io/) from 2016 to 2017. In 2016 I also chaired [ySIS](https://youngsis.github.io/), the young section of the Italian Statistical Society.
 
 My research interests focuses on Bayesian inference of spatio-temporal modeling, graphical modeling and mixture modeling, with applications to ecological and environmental processes, social and life sciences.
 
 * * *
 
-### Publications 
+### Selected publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
 Gasperoni F., Luati A., Paci L., D'Innocenzo E. (2021) [Score Driven Modeling of Spatio-temporal Data](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2021.1970571#.YS0d2o4zY2w), _Journal of the American Statistical Association_, in press.
 
@@ -24,6 +24,8 @@ Finazzi F., Paci L. (2019)  [Quantifying personal exposure to air pollution from
 Finazzi F., Paci L. (2019) [Kernel-based estimation of individual location densities from smartphone data](https://journals.sagepub.com/doi/abs/10.1177/1471082X17870331?journalCode=smja), _Statistical Modelling_, 6, 617-633.
 
 Canale A., Durante D., Paci L., Scarpa B. (2018) [Connecting statistical brains](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01110.x/full}), _Significance_, 15, 38-40.
+
+Canale, A., Durante, D., Paci, L., Scarpa, B. (Eds.) (2018), [Studies in Neural Data Science](https://www.springer.com/gp/book/9783030000387), Springer Proceedings in Mathematics and Statistics.
 
 Paci L., Finazzi F. (2018) [Dynamic model-based clustering for spatio-temporal data](https://link.springer.com/article/10.1007/s11222-017-9735-9), _Statistics and Computing_, 28, 359-374.
 
