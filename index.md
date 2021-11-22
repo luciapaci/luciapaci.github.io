@@ -19,9 +19,9 @@ Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies
 
 Paci L.,  Beamonte M. A., Gelfand A. E., Gargallo P., Salvador M. (2020) [Spatial hedonic modeling adjusted for preferential sampling](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12489), _Journal of the Royal Statistical Society: Series A_, 183, 169-192.
 
-Finazzi F., Paci L. (2019)  [Quantifying personal exposure to air pollution from smartphone-based location data](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13100), _Biometrics_, 75, 1356-1366.
+Finazzi F., Paci L. (2020) [Kernel-based estimation of individual location densities from smartphone data](https://journals.sagepub.com/doi/abs/10.1177/1471082X17870331?journalCode=smja), _Statistical Modelling_, 6, 617-633.
 
-Finazzi F., Paci L. (2019) [Kernel-based estimation of individual location densities from smartphone data](https://journals.sagepub.com/doi/abs/10.1177/1471082X17870331?journalCode=smja), _Statistical Modelling_, 6, 617-633.
+Finazzi F., Paci L. (2019)  [Quantifying personal exposure to air pollution from smartphone-based location data](https://onlinelibrary.wiley.com/doi/epdf/10.1111/biom.13100), _Biometrics_, 75, 1356-1366.
 
 Canale A., Durante D., Paci L., Scarpa B. (2018) [Connecting statistical brains](http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2018.01110.x/full}), _Significance_, 15, 38-40.
 
@@ -43,10 +43,6 @@ Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the ef
 
 ### Teaching
 I'm vice program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
-
-AY 2021 - 2022 Courses:
-* Applied linear models
-* Spatial data analysis
 
 For more info about my courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
 
