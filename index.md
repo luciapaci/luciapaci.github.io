@@ -16,7 +16,7 @@ My research interests focuses on Bayesian inference of spatio-temporal modeling,
 
 Codazzi L., Colombi A., Gianella M., Argiento R., Paci L., Pini A. (2022) [Gaussian graphical modeling for spectrometric data analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002504), _Computational Statistics & Data Analysis_, doi: 10.1016/j.csda.2021.107416.
 
-Gasperoni F., Luati A., Paci L., D'Innocenzo E. (2021) [Score Driven Modeling of Spatio-temporal Data](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2021.1970571#.YS0d2o4zY2w), _Journal of the American Statistical Association_, in press.
+Gasperoni F., Luati A., Paci L., D'Innocenzo E. (2021) [Score Driven Modeling of Spatio-temporal Data](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2021.1970571#.YS0d2o4zY2w), _Journal of the American Statistical Association_, doi: 10.1080/01621459.2021.1970571.
 
 Paci L., Consonni G. (2020) [Structure discovery of contemporaneous dependencies in graphical VAR models](https://www.sciencedirect.com/science/article/pii/S016794731930235X), _Computational Statistics & Data Analysis_, 144, 106880. 
 
