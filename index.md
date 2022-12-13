@@ -42,6 +42,9 @@ Paci L., Gelfand A. E., Holland D. M. (2013) [Spatio-temporal modeling for real-
 
 Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the effect of grouping in hierarchical spatio-temporal models](https://link.springer.com/article/10.1007/s10182-012-0193-6), _AStA Advances in Statistical Analysis_, 97 (2), 93-108.
 
+#### Preprints 
+[Papers on arXiv](https://arxiv.org/search/?searchtype=author&query=Paci%2C+L)
+
 * * *
 
 ### Teaching
