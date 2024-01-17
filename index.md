@@ -7,7 +7,7 @@ I'm Associate Professor of Statistics in the Department of Statistical Sciences 
 
 Prior to joining Cattolica University as Assistant Professor in 2016, I was a Post–Doctoral Fellow in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my Ph.D.  in Statistics (2014). I've been a Visiting Scholar in the Department of Statistical Sciences of [Duke University](https://duke.edu) (2012, USA), in the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info) (2014, USA) and in the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain). 
 
-I'm currently treasurer of [EnviBayes](https://bayesian.org/sectionschapters/environmental-sciences/). Previously, I was Program Chair of [j-ISBA](https://j-isba.github.io/) from 2016 to 2017. In 2016, I also chaired [ySIS](https://youngsis.github.io/), the young section of the Italian Statistical Society.
+I'm Associate Editor of [Statistical methods & applications](https://link.springer.com/journal/10260). I'm currently member of the Board of Directors of [ISBA](https://bayesian.org/). Previously, I was treasurer of [EnviBayes](https://bayesian.org/sectionschapters/environmental-sciences/) and Program Chair of [j-ISBA](https://j-isba.github.io/). In 2016, I also chaired [ySIS](https://youngsis.github.io/), the young section of the Italian Statistical Society.
 
 ### Research
 My research interests focuses on Bayesian inference of spatial and spatio-temporal modeling, graphical modeling and mixture modeling. Real data applications range from ecological and environmental processes to social and life sciences.
