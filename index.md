@@ -17,7 +17,7 @@ My research interests focuses on Bayesian inference of spatial and spatio-tempor
 ### Selected publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
 
-Colombi A., Argiento R., Paci L., Pini A. (2023) [Learning block structured graphs in Gaussian graphical models](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2210184), _Journal of Computational and Graphical Statistics_, DOI: 10.1080/10618600.2023.2210184
+Colombi A., Argiento R., Paci L., Pini A. (2024) [Learning block structured graphs in Gaussian graphical models](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2210184), _Journal of Computational and Graphical Statistics_, 33, 152-165.
 
 Gasperoni F., Luati A., Paci L., D'Innocenzo E. (2023) [Score Driven Modeling of Spatio-temporal Data](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2021.1970571#.YS0d2o4zY2w), _Journal of the American Statistical Association_, 118, 1066-107.
 
