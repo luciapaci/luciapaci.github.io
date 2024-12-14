@@ -17,6 +17,10 @@ My research interests focuses on Bayesian inference of spatial and spatio-tempor
 ### Selected publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
 
+Colombi A., Argiento R., Camerlenghi F., Paci L. (2024) Mixture modeling via vectors of normalized independent finite point processes, _Bayesian analysis_, forthcoming.
+
+Aiello, L., Argiento R., Finazzi F., Paci, L. (2024) Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events, _Journal of the Royal Statistical Society: Series A_, forthcoming.
+
 Argiento R., Filippi-Mazzola E., Paci L. (2024), [Model-based clustering of categorical data based on the Hamming distance](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402568), _Journal of the American Statistical Association_, DOI:10.1080/01621459.2024.2402568.
 
 Colombi A., Argiento R., Paci L., Pini A. (2024) [Learning block structured graphs in Gaussian graphical models](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2210184), _Journal of Computational and Graphical Statistics_, 33, 152-165.
