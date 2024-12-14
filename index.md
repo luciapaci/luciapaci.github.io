@@ -59,8 +59,8 @@ Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the ef
 * * *
 
 ### Teaching
-I'm vice program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
-In 2024/25, I teach "Statistics" for the BSc in Economics and "Applied linear models" for the MSc in Data analytics for business.
+I'm program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
+In 2024/25, I teach "Applied linear models" for the MSc in Data analytics for business and "Statistics" for the BSc in Economics.
 
 For more info about my courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
 
