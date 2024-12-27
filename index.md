@@ -3,11 +3,11 @@
 ![mare](./MARE.jpg)
 
 ### Short Bio
-I'm Associate Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy).
+I'm Associate Professor of Statistics in the Department of Statistical Sciences of the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/), Milan (Italy) and program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Faculty of Economics.
 
-Prior to joining Cattolica University as Assistant Professor in 2016, I was a Post–Doctoral Fellow in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my Ph.D.  in Statistics (2014). I've been a Visiting Scholar in the Department of Statistical Sciences of [Duke University](https://duke.edu) (2012, USA), in the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info) (2014, USA) and in the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain). 
+Prior to joining Cattolica University as Assistant Professor in 2016, I was a Post–Doctoral Fellow in the Department of Statistical Sciences at the [University of Bologna](https://www.unibo.it/it), where I obtained my Ph.D. in Statistics (2014). I've been a Visiting Scholar in the Department of Statistical Sciences of [Duke University](https://duke.edu) (2012, USA), in the [Statistical and Applied Mathematical Sciences Institute](https://www.samsi.info) (2014, USA) and in the Faculty of Economics of the [University of Zaragoza](www.unizar.es) (2016, Spain). 
 
-I'm Associate Editor of [Statistical methods & applications](https://link.springer.com/journal/10260). I'm currently member of the Board of Directors of [ISBA](https://bayesian.org/). Previously, I was treasurer of [EnviBayes](https://bayesian.org/sectionschapters/environmental-sciences/) and Program Chair of [j-ISBA](https://j-isba.github.io/). In 2016, I also chaired [ySIS](https://youngsis.github.io/), the young section of the Italian Statistical Society.
+I'm Associate Editor of [Statistical methods & applications](https://link.springer.com/journal/10260). I'm the local coordinator of the PRIN research project [Combiners](https://combiners.netlify.app/). I'm currently a member of the Board of Directors of the International Society for Bayesian Analysis [(ISBA)](https://bayesian.org/). Previously, I was treasurer of [EnviBayes](https://bayesian.org/sectionschapters/environmental-sciences/) and Program Chair of [j-ISBA](https://j-isba.github.io/). In 2016, I also chaired [ySIS](https://youngsis.github.io/), the young section of the [Italian Statistical Society](https://www.sis-statistica.it/). 
 
 ### Research
 My research interests focuses on Bayesian inference of spatial and spatio-temporal modeling, graphical modeling and mixture modeling. Real data applications range from ecological and environmental processes to social and life sciences.
@@ -17,9 +17,9 @@ My research interests focuses on Bayesian inference of spatial and spatio-tempor
 ### Selected publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
 
-Colombi A., Argiento R., Camerlenghi F., Paci L. (2024) Mixture modeling via vectors of normalized independent finite point processes, _Bayesian analysis_, forthcoming.
-
 Aiello, L., Argiento R., Finazzi F., Paci, L. (2024) Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events, _Journal of the Royal Statistical Society: Series A_, forthcoming.
+
+Colombi A., Argiento R., Camerlenghi F., Paci L. (2024) [Hierarchical Mixture of Finite Mixtures (with Discussion)](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Hierarchical-Mixture-of-Finite-Mixtures-with-Discussion/10.1214/24-BA1501.full), _Bayesian analysis_, DOI:10.1214/24-BA1501.
 
 Argiento R., Filippi-Mazzola E., Paci L. (2024), [Model-based clustering of categorical data based on the Hamming distance](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402568), _Journal of the American Statistical Association_, DOI:10.1080/01621459.2024.2402568.
 
@@ -59,9 +59,6 @@ Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the ef
 * * *
 
 ### Teaching
-I'm program coordinator of the Master of Science in [Data analytics for business](https://offertaformativa.unicatt.it/cdl-data-analytics-for-business-2021) at the Università Cattolica del Sacro Cuore.
-In 2024/25, I teach "Applied linear models" for the MSc in Data analytics for business and "Statistics" for the BSc in Economics.
-
-For more info about my courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
+In 2024/25, I teach "Applied linear models" for the MSc in Data analytics for business and "Statistics" for the BSc in Economics. For more info about my courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
 
 
