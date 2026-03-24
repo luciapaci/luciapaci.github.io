@@ -17,7 +17,7 @@ My research interests focuses on Bayesian inference of spatial and spatio-tempor
 ### Selected publications 
 ###### (Full list [here](https://scholar.google.it/citations?user=2KAhjjUAAAAJ&hl=en))
 
-Aiello, L., Argiento R., Finazzi F., Paci, L. (2025) [Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnae148/7953229?redirectedFrom=fulltext), _Journal of the Royal Statistical Society: Series A_, DOI:10.1093/jrsssa/qnae148.
+Aiello, L., Argiento R., Finazzi F., Paci, L. (2026) [Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnae148/7953229?redirectedFrom=fulltext), _Journal of the Royal Statistical Society: Series A_, 189, 314–329.
 
 Colombi A., Argiento R., Camerlenghi F., Paci L. (2025) [Hierarchical Mixture of Finite Mixtures](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Hierarchical-Mixture-of-Finite-Mixtures-with-Discussion/10.1214/24-BA1501.full), _Bayesian analysis_, 20, 1231-1259.
 
