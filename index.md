@@ -19,9 +19,9 @@ My research interests focuses on Bayesian inference of spatial and spatio-tempor
 
 Aiello, L., Argiento R., Finazzi F., Paci, L. (2025) [Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnae148/7953229?redirectedFrom=fulltext), _Journal of the Royal Statistical Society: Series A_, DOI:10.1093/jrsssa/qnae148.
 
-Colombi A., Argiento R., Camerlenghi F., Paci L. (2024) [Hierarchical Mixture of Finite Mixtures](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Hierarchical-Mixture-of-Finite-Mixtures-with-Discussion/10.1214/24-BA1501.full), _Bayesian analysis_, DOI:10.1214/24-BA1501.
+Colombi A., Argiento R., Camerlenghi F., Paci L. (2025) [Hierarchical Mixture of Finite Mixtures](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Hierarchical-Mixture-of-Finite-Mixtures-with-Discussion/10.1214/24-BA1501.full), _Bayesian analysis_, 20, 1231-1259.
 
-Argiento R., Filippi-Mazzola E., Paci L. (2024), [Model-based clustering of categorical data based on the Hamming distance](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402568), _Journal of the American Statistical Association_, DOI:10.1080/01621459.2024.2402568.
+Argiento R., Filippi-Mazzola E., Paci L. (2025), [Model-based clustering of categorical data based on the Hamming distance](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2402568), _Journal of the American Statistical Association_, 120, 1178-1188.
 
 Colombi A., Argiento R., Paci L., Pini A. (2024) [Learning block structured graphs in Gaussian graphical models](https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2210184), _Journal of Computational and Graphical Statistics_, 33, 152-165.
 
