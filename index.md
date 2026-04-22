@@ -59,6 +59,6 @@ Bruno, F., Cocchi, D., Paci L. (2013) [A practical approach for assessing the ef
 * * *
 
 ### Teaching
-In 2024/25, I teach "Applied linear models" for the MSc in Data analytics for business and "Statistics" for the BSc in Economics. For more info about my courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
+In 2025/26, I teach "Applied linear models" for the MSc in Data analytics for business and "Statistics" for the BSc in Economics. For more info about my courses, see my web-page [@Unicatt](https://docenti.unicatt.it/ppd2/en/docenti/57952/lucia-paci/didattica).
 
 
